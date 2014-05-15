@@ -1,0 +1,1 @@
+This is the snake game implemnted graphically in Java. Run java SnakeGame. use j and l to turn. The snake grows as it turns.
